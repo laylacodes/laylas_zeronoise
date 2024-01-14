@@ -1,0 +1,52 @@
+{
+  "name": "laylas_zeronoise",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": "1.0",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "playfair-display-regular": "assets/playfair-display-regular.ttf",
+    "playfair-display-semibold": "assets/playfair-display-semibold.ttf"
+  },
+  "color_schemes": {
+    "WCAG Light": {
+      "primary": "000000",
+      "primary-medium": "696969",
+      "primary-low-mid": "909090",
+      "secondary": "ffffff",
+      "tertiary": "000000",
+      "quaternary": "fff",
+      "header_background": "cc0000",
+      "header_primary": "ffffff",
+      "highlight": "000000",
+      "highlight-high": "0036E6",
+      "highlight-medium": "e0e9ff",
+      "highlight-low": "e0e9ff",
+      "selected": "E2E9FE",
+      "hover": "F0F4FE",
+      "danger": "BB1122",
+      "success": "3d854d",
+      "love": "9D256B"
+    },
+    "Zeronoise": {
+      "primary": "2d2a3d",
+      "secondary": "f4f4f9",
+      "tertiary": "4f31cd",
+      "quaternary": "ffffff",
+      "header_background": "000000",
+      "header_primary": "ffffff",
+      "highlight": "8a51e7",
+      "selected": "e9e9e9",
+      "hover": "f2f2f2",
+      "danger": "ed2f2f",
+      "success": "14ba60",
+      "love": "fe5c5c"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
